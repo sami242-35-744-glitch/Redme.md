@@ -2,18 +2,8 @@
 <!--      PREMIUM CYBER-HUD HEADER WITH DYNAMIC PORTRAIT        -->
 <!-- ========================================================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&text=Md.%20Emtiaz%20Hossain%20Sami&fontSize=50&fontAlignY=40&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60&animation=fadeIn&strokeWidth=0.8&bgOpacity=0" width="100%"/>
+  <img src="cyber-banner.png" width="100%" alt="Md. Emtiaz Hossain Sami Cyber Banner"/>
 </p>
-
-<!-- 
-    NOTE: When you host your portrait scanner image (image_2.png), 
-    you can uncomment and use the section below instead.
--->
-<!--
-<p align="center">
-  <img src="YOUR_HOSTED_SCANNER_IMAGE_LINK" width="100%" alt="Cyber Portrait Scanner Sami21-lgtm"/>
-</p>
--->
 
 <h3 align="center">
 🚀 Software Engineering Student • Full Stack Developer • AI & Robotics Enthusiast
@@ -373,6 +363,7 @@ Build software & hardware solutions that impact millions of people.
 | 🚀 | Dream Destinations: Google • Microsoft • OpenAI |
 
 </details>
+
 <details>
 <summary><b>❤️ SUPPORT MY WORK</b></summary>
 
