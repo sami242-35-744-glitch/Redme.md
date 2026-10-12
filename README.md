@@ -1,8 +1,8 @@
 <!-- ========================================================== -->
-<!--      PREMIUM CYBER-HUD HEADER WITH DYNAMIC PORTRAIT        -->
+<!--       GITSKINS PROFILE SCANNER HEADER (SMIL SVG)           -->
 <!-- ========================================================== -->
 <p align="center">
-  <img src="cyber-banner.png" width="100%" alt="Md. Emtiaz Hossain Sami Cyber Banner"/>
+  <img src="profile-scan.svg" width="100%" alt="GitSkins Profile Scan - Md. Emtiaz Hossain Sami" />
 </p>
 
 <h3 align="center">
